@@ -299,7 +299,7 @@ Para correr el proyecto localmente:
 
 ```
 
-git clone https://github.com/tu-grupo/secure-login-app
+git clone https://github.com/DmitriVurb/Informe_Individual_ArquiSoft1051.git
 
 cd secure-login-app
 
